@@ -1,0 +1,40 @@
+D:\Desktop\OOP project\OOP project\bin\Debug\OOP project.exe.config
+D:\Desktop\OOP project\OOP project\bin\Debug\OOP project.exe
+D:\Desktop\OOP project\OOP project\bin\Debug\OOP project.pdb
+D:\Desktop\OOP project\OOP project\obj\Debug\OOP project.csproj.AssemblyReference.cache
+D:\Desktop\OOP project\OOP project\obj\Debug\OOP_project.LoginScreen.resources
+D:\Desktop\OOP project\OOP project\obj\Debug\OOP_project.Properties.Resources.resources
+D:\Desktop\OOP project\OOP project\obj\Debug\OOP project.csproj.GenerateResource.cache
+D:\Desktop\OOP project\OOP project\obj\Debug\OOP project.csproj.CoreCompileInputs.cache
+D:\Desktop\OOP project\OOP project\obj\Debug\OOP project.exe
+D:\Desktop\OOP project\OOP project\obj\Debug\OOP project.pdb
+D:\Desktop\OOP project\OOP project\obj\Debug\OOP_project.MainMenu.resources
+D:\Desktop\OOP project\OOP project\obj\Debug\OOP_project.TransactionsMenu.resources
+D:\Desktop\OOP project\OOP project\obj\Debug\OOP_project.ShowClientsScreen.resources
+D:\Desktop\OOP project\OOP project\obj\Debug\OOP_project.AddClientsScreen.resources
+D:\Desktop\OOP project\OOP project\obj\Debug\OOP_project.DeleteClient.resources
+D:\Desktop\OOP project\OOP project\obj\Debug\OOP_project.FindClientScreen.resources
+D:\Desktop\OOP project\OOP project\obj\Debug\OOP_project.UpdateClientScreen.resources
+D:\Desktop\OOP project\OOP project\obj\Debug\OOP_project.UpdateInfo.resources
+D:\Projects\C#\bank system\OOP project\OOP project\bin\Debug\OOP project.exe.config
+D:\Projects\C#\bank system\OOP project\OOP project\bin\Debug\OOP project.exe
+D:\Projects\C#\bank system\OOP project\OOP project\bin\Debug\OOP project.pdb
+D:\Projects\C#\bank system\OOP project\OOP project\obj\Debug\OOP project.csproj.AssemblyReference.cache
+D:\Projects\C#\bank system\OOP project\OOP project\obj\Debug\OOP_project.UpdateInfo.resources
+D:\Projects\C#\bank system\OOP project\OOP project\obj\Debug\OOP_project.AddClientsScreen.resources
+D:\Projects\C#\bank system\OOP project\OOP project\obj\Debug\OOP_project.DeleteClient.resources
+D:\Projects\C#\bank system\OOP project\OOP project\obj\Debug\OOP_project.FindClientScreen.resources
+D:\Projects\C#\bank system\OOP project\OOP project\obj\Debug\OOP_project.LoginScreen.resources
+D:\Projects\C#\bank system\OOP project\OOP project\obj\Debug\OOP_project.MainMenu.resources
+D:\Projects\C#\bank system\OOP project\OOP project\obj\Debug\OOP_project.Properties.Resources.resources
+D:\Projects\C#\bank system\OOP project\OOP project\obj\Debug\OOP_project.ShowClientsScreen.resources
+D:\Projects\C#\bank system\OOP project\OOP project\obj\Debug\OOP_project.TransactionsMenu.resources
+D:\Projects\C#\bank system\OOP project\OOP project\obj\Debug\OOP_project.UpdateClientScreen.resources
+D:\Projects\C#\bank system\OOP project\OOP project\obj\Debug\OOP project.csproj.GenerateResource.cache
+D:\Projects\C#\bank system\OOP project\OOP project\obj\Debug\OOP project.csproj.CoreCompileInputs.cache
+D:\Projects\C#\bank system\OOP project\OOP project\obj\Debug\OOP project.exe
+D:\Projects\C#\bank system\OOP project\OOP project\obj\Debug\OOP project.pdb
+D:\Projects\C#\bank system\OOP project\OOP project\obj\Debug\OOP_project.CardChoice.resources
+D:\Projects\C#\bank system\OOP project\OOP project\obj\Debug\OOP_project.SavingsAccountScreen.resources
+D:\Desktop\OOP project\OOP project\obj\Debug\OOP_project.CardChoice.resources
+D:\Desktop\OOP project\OOP project\obj\Debug\OOP_project.SavingsAccountScreen.resources
