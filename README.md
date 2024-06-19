@@ -17,9 +17,51 @@
 
     Class Employee : Person
     {
-        Methods : 
+        Additional Methods : 
         1. Add Client
         2. Delete Client
+        3. Find Client
         
     }
+
+      Class Admin : Employee
+    {
+        Additional Methods : 
+        1. Show Clients List
+    }
+
+     Class Client : Person
+    {
+        Attributes : 
+        - Account Number
+        - PIN Code
+        - Client Name
+        - Phone Number
+
+        Additional Methods :
+        - Perform Transactions through composition of debit card and saving account
+    }
+
+    Class DebitCard
+    {
+        Attributes : 
+        - Account Balance
+          
+        Methods :
+        - Withdraw
+        - Deposit
+    }
+
+     Class SavingAccount
+    {
+        Attributes : 
+        - Account Balance
+        - Interest Rate
+          
+        Methods :
+        - Withdraw
+        - Deposit
+        - Calculate Monthly Interest
+    }
+    
     
