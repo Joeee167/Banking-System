@@ -14,4 +14,12 @@
         Methods for all derived classes : Login + Update Client
         
     }
+
+    Class Employee : Person
+    {
+        Methods : 
+        1. Add Client
+        2. Delete Client
+        
+    }
     
