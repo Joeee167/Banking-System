@@ -10,6 +10,8 @@
     Base Class Person
     {
         Attributes : Username + Password
+
+        Methods for all derived classes : Login + Update Client
         
     }
     
