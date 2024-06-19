@@ -6,3 +6,10 @@
                                                  UML Diagram
  ![UML](https://github.com/Joeee167/Banking-System/blob/main/Screenshot%202024-06-18%20174936.png)
 
+
+    Base Class Person
+    {
+        Attributes : Username + Password
+        
+    }
+    
