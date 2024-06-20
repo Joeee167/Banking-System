@@ -82,4 +82,9 @@
                                                   Main Menu Screen
     ![Main Menu](https://github.com/Joeee167/Banking-System/blob/main/Screenshot%202024-06-20%20160449.png)
   - According to the user type ( Admin / Employee / Client ) , some of the six functions are allowed to use and the others are disabled
+
+
+                                                      Show Clients Screen
+   ![Show Clients](https://github.com/Joeee167/Banking-System/blob/main/Screenshot%202024-06-20%20172220.png)
+   - Show Clients Screen that is only available to the admin that allow him to view all the clients' info.
     
