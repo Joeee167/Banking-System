@@ -77,4 +77,9 @@
    ![LoginScreen](https://github.com/Joeee167/Banking-System/blob/main/Screenshot%202024-06-20%20151744.png)
   - The user enters username and password , according to the file the user is found in ( Admin / Employee / Client ) , the user will be directed to Main Menu and allowed to perform some functions .
 
+
+
+                                                  Main Menu Screen
+    ![Main Menu](https://github.com/Joeee167/Banking-System/blob/main/Screenshot%202024-06-20%20160449.png)
+  - According to the user type ( Admin / Employee / Client ) , some of the six functions are allowed to use and the others are disabled
     
