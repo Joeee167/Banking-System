@@ -42,7 +42,7 @@
         - Perform Transactions through composition of debit card and saving account
     }
 
-    Class DebitCard
+    Class DebitCard : Ioperations
     {
         Attributes : 
         - Account Balance
@@ -52,7 +52,7 @@
         - Deposit
     }
 
-     Class SavingAccount
+     Class SavingAccount : Ioperations
     {
         Attributes : 
         - Account Balance
@@ -63,5 +63,15 @@
         - Deposit
         - Calculate Monthly Interest
     }
+
+    Interface Ioperations
+    {
+        Methods :
+        - Withdraw
+        - Deposit
+    }
+
+  # Screens And Functions
+  
     
     
