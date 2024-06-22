@@ -87,4 +87,10 @@
                                                       Show Clients Screen
    ![Show Clients](https://github.com/Joeee167/Banking-System/blob/main/Screenshot%202024-06-20%20172220.png)
    - Show Clients Screen that is only available to the admin that allow him to view all the clients' info.
+
+                                                      Add Clients Screen
+     ![Add Clients](https://github.com/Joeee167/Banking-System/blob/main/Screenshot%202024-06-22%20142257.png)
+     - Screen to add new client >>> available to Admin and Employee only.
+     - It is not allowed to add client with existing account number.
+     - If you try to add a user with existing account number , a message appears to show that.
     
