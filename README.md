@@ -88,6 +88,8 @@
    ![Show Clients](https://github.com/Joeee167/Banking-System/blob/main/Screenshot%202024-06-20%20172220.png)
    - Show Clients Screen that is only available to the admin that allow him to view all the clients' info.
 
+   - https://github.com/Joeee167/Banking-System/blob/main/Screenshot%202024-06-23%20141252.png
+
                                                       Add Clients Screen
      ![Add Clients](https://github.com/Joeee167/Banking-System/blob/main/Screenshot%202024-06-22%20142257.png)
      - Screen to add new client >>> available to Admin and Employee only.
