@@ -96,3 +96,7 @@
      - It is not allowed to add client with existing account number.
      - If you try to add a user with existing account number , a message appears to show that.
     
+
+
+
+https://github.com/Joeee167/Banking-System/blob/main/Screenshot%202024-06-23%20141314.png
