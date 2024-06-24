@@ -106,3 +106,11 @@
 - Find Client by account number >>> available to admin and employees only.
 - If the client is found , the client info ( AccountNumber - PIN - Name - Phone Number - Debit Card Balance - Saving Account Balance ) is shown.
 - If the client is not found , a warning message " Client Not Found! " is shown.
+
+                    Delete Clients Screen
+![Delete Client](https://github.com/Joeee167/Banking-System/blob/main/Screenshot%202024-06-24%20134030.png)
+
+- Delete Client By Account Number >>> available to admin and employee only
+- If a client is found with the entered account number , a message appears to confirm deletion then the client is removed from the file
+- If the client is not found , a warning message " Client Not Found! " is shown.
+
